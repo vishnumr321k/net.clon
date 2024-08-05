@@ -1,0 +1,528 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    margin: 0;
+    width: 100%;
+    height: 200px;
+    background: black;
+   
+}
+main{
+    
+        width: 100%;
+        height: 717px;
+        background: url(IN-en-20240722-POP_SIGNUP_TWO_WEEKS-perspective_WEB_3457a8b1-284d-4bb5-979e-2a2e9bb342b3_large.jpg);
+        font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+           
+}
+.box{
+    width: 100%;
+    height: 720px;
+    background-image: linear-gradient(to top, rgb(0 0 0 / 82%) 0, rgb(0 0 0 / 38%) 60%, rgb(0 0 0 / 95%) 100%);
+
+}
+.net_logo{
+    max-width: 160px;
+    margin-top: 18px;
+    margin-left: 167px;
+   
+}
+.english{
+    width: 100%;
+    height: 10px;
+    background: rgb(255, 255, 255);
+}
+#lang{
+    width: 98px;
+    height: 35px;
+    margin-right: 290px;
+    margin-top: 28px;
+    float: right;
+    background: rgb(0, 0, 0);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 11px;
+    font-size: 16px;
+    border-radius: 4px;
+    
+    
+}
+
+.trans_logo{
+    float: left;
+    padding-left: 10px;
+}
+.sighn{
+    width: 79px;
+    height: 36px;
+    float: right;
+    margin-right: -198px;
+    margin-top: 28px;
+    border-radius: 4px;
+    background: rgb(204 10 19);
+    border-color: rgba(204, 10, 20, 0);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.sighn:hover{
+    background: rgb(151, 7, 15);
+}
+.second_slide{
+    width: 100%;
+    height: 720px;
+}
+.first_word{
+    font-size: 50px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: 1000;
+    padding-top: 200px;
+    padding-left: 273px;
+}
+.first_word_sub{
+    font-size: 27px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-top: 17px;
+    padding-left: 572px;
+}
+.first_word_sec_sub{
+    font-size: 22px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-top: 17px;
+    padding-left: 420px;
+}
+.email_enter{
+    margin-top: 39px;
+    margin-left: 466px;
+    width: 362px;
+    height: 51px;
+    background: rgba(0, 0, 0, 0.284);
+    border-color: #ffffff57;
+    border-radius: 5px;
+    font-size: 17px;
+    padding-left: 10px;
+    color: white;
+}
+
+
+.Get_Started{
+    margin-top: 39px;
+    margin-right: 474px;
+    width: 195px;
+    height: 55px;
+    float: right;
+    border-radius: 5px;
+    background: rgb(204 10 19);
+    border-color: rgb(204 10 19);
+    font-size: 24px;
+    color: white;
+    border-color: rgba(255, 255, 255, 0);
+    font-weight: bold;
+}
+.great{
+    float: right;
+    padding-right: 10px;
+    
+}
+
+.Get_Started:hover{
+    background: rgb(151, 7, 15);
+}
+.seperration{
+    width: 100%;
+    height: 6px;
+    background: #292929;
+}
+.second_slide{
+    width: 100%;
+    height: 602px;
+    
+}
+.second_slide img{
+    float: right;
+    margin-right: 80px;
+    margin-top: -310px;
+    z-index: 10;
+    position: relative;
+}
+.second_slide video{
+    float: right;
+    margin-right: -563px;
+    margin-top: -218px;
+
+}
+.second_slide_main_head{
+    font-size: 50px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: 1000;
+    padding-top: 213px;
+    padding-left: 139px;
+}
+.second_slide_main_sub{
+    font-size: 27px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-top: 17px;
+    padding-left: 139px;
+    
+}
+.thired_slide{
+    width: 100%;
+    height: 602px;
+}
+.third_mian{
+    width: 100%;
+    height: 602px;
+}
+.right{
+    width: 50%;
+    height: 602px;
+    float: right;
+}
+.left{
+    width: 50%;
+    height: 602px;
+    float: left;
+}
+
+.third_main_head{
+    font-size: 48px;
+    font-weight: 1000;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-top: 196px;
+}
+.third_main_sub{
+    font-size: 27px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.img_box1{
+    width: 650px;
+    height: 521px;
+    margin-top: 33px;
+    margin-left: 100px;
+}
+.img_box1 img{
+    width: 88%;
+    margin-top: 43px;
+    margin-left: 87px;
+    
+   
+    
+}
+.img_box1 div{
+    width: 310px;
+    height: 99px;
+    background: rgb(0 0 0);
+    margin-top: -134px;
+    margin-left: 216px;
+    z-index: 10;
+    position: relative;
+    border-radius: 12px;
+    border: 2px solid rgb(105 105 105 / 59%);
+    
+
+}
+.iner_box1 img{
+    width: 17%;
+    margin-top: 11px;
+    margin-left: 16px;
+    float: left;
+}
+.img_box1 p{
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-left: 12px;
+    padding-top: 20px;
+    float: left;
+}
+.img_box1 label{
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    
+    padding-top: 42px;
+    
+
+}
+.img_box1 video{
+    width: 10%;
+    z-index: 10;
+    position: relative;
+}
+
+#Download_color{
+    color: #009cff;
+}
+#gif_ani{
+    margin-top: 23px;
+    margin-left: 47px;
+}
+.seperration1{
+    width: 100%;
+    height: 6px;
+    background: #292929;
+    margin-top: 520px;
+}
+.second_slide1{
+    width: 100%;
+    height: 602px;
+}
+.second_slide1 img{
+    float: right;
+    margin-right: 80px;
+    margin-top: -310px;
+    z-index: 10;
+    position: relative;
+}
+.second_slide1 video{  
+float: right;
+margin-right: -515px;
+margin-top: -271px;
+width: 27%;
+}
+.second_slide_main_head1{
+    font-size: 50px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: 1000;
+    padding-top: 213px;
+    padding-left: 139px;
+}
+.second_slide_main_sub1{
+    font-size: 27px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-top: 17px;
+    padding-left: 139px;
+}
+.third_main_head1{
+    font-size: 48px;
+    font-weight: 1000;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-top: 196px;
+}
+.third_main_sub1{
+    font-size: 27px;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.second_slide_last{
+    width: 100%;
+    height: 602px;
+}
+.third_main_head_last{
+    font-size: 48px;
+    font-weight: 1000;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding-top: 55px;
+    padding-left: 420px;
+}
+.freq{
+    width: 100%;
+    height: 602px;
+    
+}
+.last_head{
+    font-size: 48px;
+    font-weight: 1000;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    margin-top: 54px;
+    margin-left: 423px;
+
+}
+.faq{
+    padding: 10px 12%;
+    text-align: center;
+    font-size: 18px;
+}
+.faq h2{
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 48px;
+    font-weight: 1000;
+}
+.faq ul{
+    color: white;
+}
+.accordian{
+    margin: 60px auto;
+    width: 100%;
+    max-width: 750px;
+}
+.accordian li{
+    list-style: none;
+    width: 154%;
+    margin-left: -206px;
+
+}
+.accordian li label{
+    display: flex;
+    align-items: center;
+    padding: 21px;
+    font-size: 22px;
+    background: #303030;
+    margin-bottom: 8px;
+    cursor: pointer;
+    position: relative;
+    height: 47px;
+
+}
+label::after{
+    content: '+';
+    font-size: 64px;
+    position: absolute;
+    right: 20px;
+    font-weight: lighter;
+    transition: transform 0.5s;
+    margin-top: -19px;
+   
+}
+input[type="radio"]{
+    display: none;
+
+
+}
+.accordian .content{
+    background: #303030;
+    text-align: left;
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition-timing-function: cubic-bezier(0.9, 0, 0.51, 1);
+    
+}
+.accordian input[type="radio"]:checked + label + .content{
+    max-height: 600px;
+    padding: 30px 20px;
+
+}
+.accordian input[type="radio"]:checked + label::after{
+    flex-shrink: 0;
+    transform: rotate(-45deg);
+
+}
+.last_under_line{
+    color: white;
+    font-size: 20px;
+}
+.email_enter1{
+    margin-top: 16px;
+    margin-left: 279px;
+    width: 362px;
+    height: 51px;
+    background: rgba(0, 0, 0, 0.284);
+    border-color: #ffffff57;
+    border-radius: 5px;
+    font-size: 17px;
+    padding-left: 10px;
+    color: white;
+}
+.Get_Started1{
+    margin-top: 16px;
+    margin-right: 282px;
+    width: 195px;
+    height: 55px;
+    float: right;
+    border-radius: 5px;
+    background: rgb(204 10 19);
+    border-color: rgb(204 10 19);
+    font-size: 24px;
+    color: white;
+    border-color: rgba(255, 255, 255, 0);
+    font-weight: bold;
+}
+.great1{
+    float: right;
+    padding-right: 10px;
+    
+}
+.seperation2{
+    width: 100%;
+    height: 6px;
+    background: #292929;
+    margin-top: 60px;
+}
+.foter{
+    width: 100%;
+    height: 465px;
+}
+.first1{
+    color: rgba(255, 255, 255, 0.7);
+    padding-left: 194px;
+    padding-top: 62px;
+}
+.first1 a{
+    color: rgba(255, 255, 255, 0.7);
+}
+.first2{
+    color: white;
+    padding-left: 194px;
+    padding-top: 30px;
+
+}
+.first2 a{
+    color: rgba(255, 255, 255, 0.7);
+}
+.first3{
+    color: white;
+    padding-left: 194px;
+    padding-top: 30px;
+
+}
+.first3 a{
+    color: rgba(255, 255, 255, 0.7);
+}
+.first4{
+    color: white;
+    padding-left: 194px;
+    padding-top: 30px;
+
+}
+.first4 a{
+    color: rgba(255, 255, 255, 0.7);
+}
+.first5{
+    color: white;
+    padding-left: 194px;
+    padding-top: 30px;
+
+}
+.first5 a{
+    color: rgba(255, 255, 255, 0.7);
+}
+.lang1{
+    width: 98px;
+    height: 35px;
+    margin-left: 146px;
+    margin-top: 28px;
+    background: rgb(0, 0, 0);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 11px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.first6{
+    color: white;
+    padding-left: 146px;
+    padding-top: 30px;
+
+}
+.table1{
+    margin-left: -51px;
+    margin-top: -1px;
+
+}
